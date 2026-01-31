@@ -35,3 +35,13 @@ Read more about using header files in official GCC documentation:
 * Computed Includes
 
 https://gcc.gnu.org/onlinedocs/cpp/Header-Files.html
+
+
+* should workd
+pip install esptool
+pip install setuptools
+python -m esptool
+python -m esptool --chip esp32 erase_flash
+
+*actually works
+ esptool.exe 
